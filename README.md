@@ -1,4 +1,4 @@
-# boston-crime-capsone-project
+# boston-crime-capstone-project
 UP School Capstone Project/ Getir Case
 
 
