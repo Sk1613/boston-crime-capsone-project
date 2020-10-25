@@ -9,3 +9,5 @@ The first step of the study is exploratory data analysis. The second stage consi
 This project was made in partnership with Up School. (https://www.upschool.io) 
 
 Click to access the data: https://www.kaggle.com/AnalyzeBoston/crimes-in-boston
+
+Presentation video with detailed explanation: https://www.youtube.com/watch?v=jA_i4iPlcn8 
