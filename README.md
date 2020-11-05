@@ -8,6 +8,8 @@ The first step of the study is exploratory data analysis. The second step consis
 
 This project was made in partnership with Up School. (https://www.upschool.io) 
 
+Project code: https://github.com/Sk1613/boston-crime-capsone-project/blob/main/boston-crime-analysis.ipynb 
+
 Click to access the data: https://www.kaggle.com/AnalyzeBoston/crimes-in-boston
 
 Presentation video with detailed explanation: https://www.youtube.com/watch?v=jA_i4iPlcn8 
